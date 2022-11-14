@@ -1,2 +1,1 @@
-
 University Admit Eligibility Predictor
