@@ -22,4 +22,4 @@ Applied Data Science
 # Category:
 Machine Learning
 
-![image](https://user-images.githubusercontent.com/116719711/202260465-d594bd15-1f28-44f4-899e-53f4c9c2db1e.png)
+![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgetsensibill.com%2Fblog%2Fmachine-learning-receipts-2&psig=AOvVaw0TYzd5ujp7z_QBr5F2qmFF&ust=1668708732110000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjt48ums_sCFQAAAAAdAAAAABAj)
