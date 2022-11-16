@@ -17,7 +17,8 @@ To understand regression and classification problems To grab insights from data 
 # Domain:
 Applied Data Science
 
-![image](https://user-images.githubusercontent.com/116719711/202259330-abd01aff-a07a-479d-a3ce-d657032935ff.png)
+<img src="https://cdn.dribbble.com/users/143861/screenshots/2951104/immuta_philanthropy_dribbble.gif"
+ width="700" height="500" />
 
 # Category:
 Machine Learning
