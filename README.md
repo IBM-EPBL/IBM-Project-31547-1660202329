@@ -18,3 +18,8 @@ To understand regression and classification problems To grab insights from data 
 Applied Data Science
 
 ![image](https://user-images.githubusercontent.com/116719711/202259330-abd01aff-a07a-479d-a3ce-d657032935ff.png)
+
+# Category:
+Machine Learning
+
+![image](https://user-images.githubusercontent.com/116719711/202260465-d594bd15-1f28-44f4-899e-53f4c9c2db1e.png)
