@@ -22,5 +22,5 @@ Applied Data Science
 # Category:
 Machine Learning
 
-<img src=![image](https://user-images.githubusercontent.com/116719711/202262521-bfaebc8f-1336-4c0e-a586-8ee4547f7e27.gif)
+<img src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif"
  width="40" height="40" />
