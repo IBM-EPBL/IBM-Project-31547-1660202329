@@ -11,6 +11,9 @@ Students are often worried about their chances of admission to University. The a
 # Project Objectives:
 To understand regression and classification problems To grab insights from data through visualization. Applying different ML algorithms to determine the probability of acceptance in a particular university. Evaluation metrics Build a web application using the Flask framework.
 
+# Technical Architecture:
+![This is an image](C:\Users\Asus\Downloads)
+
 # Domain:
 Applied Data Science
 
