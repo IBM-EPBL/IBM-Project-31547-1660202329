@@ -23,4 +23,4 @@ Applied Data Science
 Machine Learning
 
 <img src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif"
- width="500" height="500" />
+ width="700" height="500" />
