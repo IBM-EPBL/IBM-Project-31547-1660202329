@@ -17,4 +17,4 @@ To understand regression and classification problems To grab insights from data 
 # Domain:
 Applied Data Science
 
-![This is an image](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg)
+![image](https://user-images.githubusercontent.com/116719711/202259330-abd01aff-a07a-479d-a3ce-d657032935ff.png)
