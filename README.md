@@ -33,4 +33,12 @@ Machine Learning
 
 # Output:
 
-![image]("C:\Users\Asus\Downloads\HomePage.png")
+![HomePage](https://user-images.githubusercontent.com/116719711/202733558-923bc6fd-3ae2-4905-af37-4757c7cf0e29.png)
+
+![Getting Chance](https://user-images.githubusercontent.com/116719711/202733841-987cdce0-50af-401f-8d68-cabfb72e3806.png)
+
+![Getting noChance](https://user-images.githubusercontent.com/116719711/202733742-d653f1ea-5bb8-4054-8a87-179159bf015c.png)
+
+
+
+
